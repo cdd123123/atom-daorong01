@@ -1,0 +1,18 @@
+{
+  "name": "daorong01",
+  "main": "./lib/daorong01",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "daorong01:toggle"
+  },
+  "repository": "https://github.com/atom/daorong01",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

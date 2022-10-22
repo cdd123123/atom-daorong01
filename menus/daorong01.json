@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle daorong01",
+        "command": "daorong01:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "daorong01",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "daorong01:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
