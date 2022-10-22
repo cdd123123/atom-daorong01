@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "daorong01:toggle"
   },
-  "repository": "https://github.com/atom/daorong01",
+  "repository": "https://github.com/cdd123123/atom-daorong01.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
